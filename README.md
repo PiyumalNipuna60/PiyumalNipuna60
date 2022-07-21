@@ -12,19 +12,20 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?duration=3000&color=2ED573&width=1000&lines=-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+)](https://git.io/typing-svg)
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?size=32&vCenter=true&width=760&lines=Hi+%F0%9F%91%8B%2C+I'm+Nipuna+Piyumal;IJSE-+%F0%9F%91%8B%2C+Institute+of+Software+Engineering;)](https://git.io/typing-svg)
 
 <h3 align="center"><b><i>Full Stack Developer from Sri Lanka</i></b></h3>
 <p align="center">
   <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=Computer+Science+Student;Competitive+Programmer;IJSE+GDSE+Student;Java%20|%20Algorithms%20|%20OOP%20;Specialist%20on%20Codeforces;Always%20learning%20new%20things&center=true&width=500&height=50"></a>
-</p><br>
+</p>
+<br>
 
 <img align="center" alt="coding" src="https://cdn.dribbble.com/users/1162077/screenshots/4649464/skatter-programmer.gif" height="500" width="1000">
 
 <img src="https://komarev.com/ghpvc/?username=piyumalnipuna60&label=Profile%20views&color=0e75b6&style=flat" alt="piyumalnipuna60" /> </p>
 
 [![GitHub followers](https://img.shields.io/github/followers/piyumalnipuna60.svg?style=social&label=Follow&maxAge=2592000)](https://github.com/piyumalnipuna60?tab=followers)
-
 
 ## 👨‍🦰 About me :
 
