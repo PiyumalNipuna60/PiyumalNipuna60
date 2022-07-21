@@ -19,7 +19,7 @@ Here are some ideas to get you started:
   <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=Computer+Science+Student;Competitive+Programmer;IJSE+GDSE+Student;Java%20|%20Algorithms%20|%20OOP%20;Specialist%20on%20Codeforces;Always%20learning%20new%20things&center=true&width=500&height=50"></a>
 </p><br>
 
-<img align="center" alt="coding" src="https://cdn.dribbble.com/users/1162077/screenshots/4649464/skatter-programmer.gif" height="500" width="800">
+<img align="center" alt="coding" src="https://cdn.dribbble.com/users/1162077/screenshots/4649464/skatter-programmer.gif" height="500" width="1000">
 
 <img src="https://komarev.com/ghpvc/?username=piyumalnipuna60&label=Profile%20views&color=0e75b6&style=flat" alt="piyumalnipuna60" /> </p>
 
@@ -80,7 +80,7 @@ Here are some ideas to get you started:
 
 ## 🛠️ My Skills
 
-<h3 align="left"><b><i>Languages :</i></b></h3>
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?duration=4000&color=2ED573&width=600&lines=Languages+and+Tools%3A)](https://git.io/typing-svg)
 
 <a href="https://www.java.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="50" height="50"/>&nbsp;&nbsp;&nbsp; </a>
 <a href="https://www.css.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css" width="50" height="50"/>&nbsp;&nbsp;&nbsp; </a>
@@ -90,7 +90,7 @@ Here are some ideas to get you started:
 <a href="https://github.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original-wordmark.svg" alt="git" width="50" height="50"/>&nbsp;&nbsp;&nbsp; </a>
 
 
-<h3 align="left"><b><i> Tools:</i></b></h3>
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?duration=4000&color=2ED573&width=600&lines=My+Tool%3A)](https://git.io/typing-svg)
 
 <a href="https://www.photoshop.com/en" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="50" height="50"/> &nbsp;&nbsp;&nbsp;</a> 
 <a href="https://www.figma.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="50" height="50"/>&nbsp;&nbsp;&nbsp; </a>
@@ -100,6 +100,8 @@ Here are some ideas to get you started:
 <a href="https://www.code.visualstudio.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original-wordmark.svg" alt="VSCode" width="50" height="50"/> &nbsp;&nbsp;&nbsp;</a> 
 <a href="https://www.google.com/chrome" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/chrome/chrome-original-wordmark.svg" alt="chrome" width="50" height="50"/> &nbsp;&nbsp;&nbsp;</a> 
 <a href="https://www.slack.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/slack/slack-original-wordmark.svg" alt="slack" width="50" height="50"/> &nbsp;&nbsp;&nbsp;</a> 
+
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?duration=5000&color=2ED573&width=600&lines=-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+)](https://git.io/typing-svg)
 
 <br><p align="left"> <img src="https://github-readme-stats.vercel.app/api?username=PiyumalNipuna60&show_icons=true&theme=gotham" alt="Nipuna Piyumal | Stats" />
 
