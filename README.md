@@ -19,7 +19,7 @@ Here are some ideas to get you started:
   <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=Computer+Science+Student;Competitive+Programmer;IJSE+GDSE+Student;Java%20|%20Algorithms%20|%20OOP%20;Specialist%20on%20Codeforces;Always%20learning%20new%20things&center=true&width=500&height=50"></a>
 </p><br>
 
-<img align="center" alt="coding" src="https://cdn.dribbble.com/users/1162077/screenshots/4649464/skatter-programmer.gif" height="500" width="1000">
+<img align="center" alt="coding" src="https://cdn.dribbble.com/users/1162077/screenshots/4649464/skatter-programmer.gif" height="500" width="800">
 
 <img src="https://komarev.com/ghpvc/?username=piyumalnipuna60&label=Profile%20views&color=0e75b6&style=flat" alt="piyumalnipuna60" /> </p>
 
@@ -108,7 +108,7 @@ Here are some ideas to get you started:
 <p align="left"> <a href="https://github.com/PiyumalNipuna60/github-readme-stats"><img alt="PiyumalNipuna60's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PiyumalNipuna60&langs_count=8&layout=compact&theme=gotham&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide=Jupyter%20Notebook" height="142px"/></a> </p>
 
 <!-- <p align="left"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=PiyumalNipuna60&langs_count=5&theme=gotham" alt="Nipuna Piyumal | My GitHub Language Stats" /> -->
-<br>
+
 ***My Contributions*** 😥 <br>
 
 <a href="https://github.com/PiyumalNipuna60/github-readme-activity-graph"><img alt="Nipuna Piyumal's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=PiyumalNipuna60&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>
