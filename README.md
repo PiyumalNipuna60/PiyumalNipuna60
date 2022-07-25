@@ -25,7 +25,7 @@ Here are some ideas to get you started:
 
 <img src="https://komarev.com/ghpvc/?username=piyumalnipuna60&label=Profile%20views&color=0e75b6&style=flat" alt="piyumalnipuna60" /> </p>
 
-[![GitHub followers](https://img.shields.io/github/followers/piyumalnipuna60.svg?style=social&label=Follow&maxAge=2592000)](https://github.com/piyumalnipuna60?tab=followers)
+[![GitHub followers](https://img.shields.io/github/followers/piyumalnipuna60.svg?style=social&label=followers&maxAge=2592000)](https://github.com/piyumalnipuna60?tab=followers)
 
 ## 👨‍🦰 About me :
 
