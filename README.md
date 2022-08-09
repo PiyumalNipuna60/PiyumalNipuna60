@@ -21,7 +21,7 @@ Here are some ideas to get you started:
 </p>
 <br>
 
-<img align="center" alt="coding" src="https://cdn.dribbble.com/users/1162077/screenshots/4649464/skatter-programmer.gif" height="500" width="800">
+<img align="center" alt="myProfile" src="https://github.com/PiyumalNipuna60/My-Portfoliyo/blob/main/assets/image/My%20Web%20Profile%20%E2%80%93%20Figma%20-%20Google%20Chrome%207_24_2022%208_44_19%20PM%20(2).png" height="500" width="830">
 
 <img src="https://komarev.com/ghpvc/?username=piyumalnipuna60&label=Profile%20views&color=0e75b6&style=flat" alt="piyumalnipuna60" /> </p>
 
