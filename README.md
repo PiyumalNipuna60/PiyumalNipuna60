@@ -108,9 +108,9 @@ Here are some ideas to get you started:
 
 <div align="center">
 
-<p align="left"> <a href="https://github.com/PiyumalNipuna60/github-readme-stats"><img alt="PiyumalNipuna60's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PiyumalNipuna60&langs_count=8&layout=compact&theme=gotham&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide=Jupyter%20Notebook" height="142px"/></a> </p>
+<!-- <p align="left"> <a href="https://github.com/PiyumalNipuna60/github-readme-stats"><img alt="PiyumalNipuna60's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PiyumalNipuna60&langs_count=8&layout=compact&theme=gotham&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide=Jupyter%20Notebook" height="142px"/></a> </p> -->
 
-<!-- <p align="left"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=PiyumalNipuna60&langs_count=5&theme=gotham" alt="Nipuna Piyumal | My GitHub Language Stats" /> -->
+<p align="left"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=PiyumalNipuna60&langs_count=5&theme=gotham" alt="Nipuna Piyumal | My GitHub Language Stats" />
 
 ***My Contributions*** 😥 <br>
 
