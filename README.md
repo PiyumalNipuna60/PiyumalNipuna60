@@ -128,4 +128,19 @@ Here are some ideas to get you started:
    <img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=PiyumalNipuna60&theme=tokyonight&utcOffset=8" />
    <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=PiyumalNipuna60&theme=tokyonight" />
   
+   
+   [![Typing SVG](https://readme-typing-svg.herokuapp.com?duration=5000&color=2ED573&width=600&lines=-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+)](https://git.io/typing-svg)
+
+***...Contact ME...*** 😥 <br>
+   
+   <p align="center">
+
+![Gmail](https://img.shields.io/badge/Gmail-D14836?logo=gmail&logoColor=white&style=for-the-badge)
+![Google](https://img.shields.io/badge/Google%20Meet-00897B?logo=google-meet&logoColor=white&style=for-the-badge)
+![Slack](https://img.shields.io/badge/Slack-4A154B?logo=slack&logoColor=white&style=for-the-badge)
+![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?logo=telegram&logoColor=white&style=for-the-badge)
+![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?logo=whatsapp&logoColor=white&style=for-the-badge)
+![FaceBook](https://img.shields.io/badge/FaceBook-blue?logo=FaceBook&logoColor=white&style=for-the-badge)
+
+</p>
 
