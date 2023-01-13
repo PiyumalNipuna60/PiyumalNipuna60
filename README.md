@@ -118,7 +118,14 @@ Here are some ideas to get you started:
 
 ***My Contributions*** 😥 <br>
 
-/*<a href="https://github.com/PiyumalNipuna60/github-readme-activity-graph"><img alt="Nipuna Piyumal's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=PiyumalNipuna60&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>*/
+<p align="center">
+  
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=PiyumalNipuna60&theme=tokyonight" />
+  
+ <p>
 
-
+<br>
+   <img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=PiyumalNipuna60&theme=tokyonight&utcOffset=8" />
+   <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=PiyumalNipuna60&theme=tokyonight" />
+  
 
