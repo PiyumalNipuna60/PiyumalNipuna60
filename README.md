@@ -1,17 +1,7 @@
 ### Hi there 👋
 
-<!--
-**PiyumalNipuna60/PiyumalNipuna60** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-Here are some ideas to get you started:
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?duration=3000&color=2ED573&width=1000&lines=-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+)](https://git.io/typing-svg)
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?size=32&vCenter=true&width=760&lines=Hi+%F0%9F%91%8B%2C+I'm+Nipuna+Piyumal;IJSE-+%F0%9F%91%8B%2C+Institute+of+Software+Engineering;)](https://git.io/typing-svg)
 
@@ -24,9 +14,24 @@ Here are some ideas to get you started:
 <img align="center" alt="myProfile" src="https://github.com/PiyumalNipuna60/My-Portfoliyo-2/blob/master/assets/image/home-background.png" height="500" width="1100">
 
 
-<img src="https://komarev.com/ghpvc/?username=piyumalnipuna60&label=Profile%20views&color=0e75b6&style=flat" alt="piyumalnipuna60" /> </p>
+
+<!--follows and code line-->
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-10.9%20million%20lines%20of%20code-blue" width="600" height="30" />
+  </a>
+</p>
+
+
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://komarev.com/ghpvc/?username=piyumalnipuna60&label=Profile%20views&color=0e75b6&style=flat" alt="piyumalnipuna60" height="30" />
+  </a>
+</p>
+
 
 [![GitHub followers](https://img.shields.io/github/followers/piyumalnipuna60.svg?style=social&label=followers&maxAge=2592000)](https://github.com/piyumalnipuna60?tab=followers)
+
 
 ## 👨‍🦰 About me :
 
