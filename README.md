@@ -11,7 +11,7 @@
 </p>
 <br>
 
-<img align="center" alt="myProfile" src="https://github.com/PiyumalNipuna60/My-Portfoliyo-2/blob/master/assets/image/home-background.png" height="500" width="1100">
+<img align="center" alt="myProfile" src="https://github.com/PiyumalNipuna60/My-Portfoliyo-2/blob/master/assets/piyumal.png" height="500" width="1100">
 
 
 
