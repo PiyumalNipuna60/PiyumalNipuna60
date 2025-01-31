@@ -33,8 +33,8 @@
 </p>
 
 
-[![GitHub followers](https://img.shields.io/github/followers/piyumalnipuna60.svg?style=social&label=followers&maxAge=2592000)](https://github.com/piyumalnipuna60?tab=followers)
-
+[![GitHub followers](https://img.shields.io/github/followers/piyumalnipuna60.svg?style=social&label=followers&maxAge=2592000)](https://github.com/piyumalnipuna60?tab=followers)<br>
+[![GitHub followers](https://img.shields.io/github/stars/piyumalnipuna60)](https://github.com/piyumalnipuna60?tab=followers)
 
 ## 👨‍🦰 About me :
 
@@ -78,15 +78,7 @@
 <br>
 <br>
 
-## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px"> Connect with me
-<p align="center">
-<a href="https://github.com/PiyumalNipuna60"><img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original-wordmark.svg" alt="nipuna_piyumal" height="30" width="40" /></a>
-<a href="https://lk.linkedin.com/in/Nipuna Piyumal" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/public-profile/settings?trk=d_flagship3_profile_self_view_public_profile" height="30" width="40" /></a>
-<a href="https://www.facebook.com/nowety.piyumalNipuna" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="" height="30" width="40" /></a>
-<a href="https://www.instagram.com/piyumalnipuna/?hl=en" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="piyumalnipuna" height="30" width="40" /></a>
-<a href="https://www.slack.com"><img align="slack" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/slack/slack-original-wordmark.svg" alt="nipuna_piyumal" height="50" width="40" /></a>
-
-</p>
+## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px"> 
 
 ## 🛠️ My Skills
 
@@ -151,13 +143,29 @@
    
    <p align="center">
 
-![Gmail](https://img.shields.io/badge/Gmail-D14836?logo=gmail&logoColor=white&style=for-the-badge)
-![Google](https://img.shields.io/badge/Google%20Meet-00897B?logo=google-meet&logoColor=white&style=for-the-badge)
-![Slack](https://img.shields.io/badge/Slack-4A154B?logo=slack&logoColor=white&style=for-the-badge)
-![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?logo=telegram&logoColor=white&style=for-the-badge)
-![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?logo=whatsapp&logoColor=white&style=for-the-badge)
-![FaceBook](https://img.shields.io/badge/FaceBook-blue?logo=FaceBook&logoColor=white&style=for-the-badge)
-
+<p align="center">
+  <a href="nipuna315np@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?logo=gmail&logoColor=white&style=for-the-badge" alt="Gmail">
+  </a>
+  <a href="https://lk.linkedin.com/in/Nipuna Piyumal">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white&style=for-the-badge" alt="LinkedIn">
+  </a>
+  <a href="https://meet.google.com">
+    <img src="https://img.shields.io/badge/Google%20Meet-00897B?logo=google-meet&logoColor=white&style=for-the-badge" alt="Google Meet">
+  </a>
+  <a href="https://slack.com">
+    <img src="https://img.shields.io/badge/Slack-4A154B?logo=slack&logoColor=white&style=for-the-badge" alt="Slack">
+  </a>
+  <a href="https://t.me/your-telegram-username">
+    <img src="https://img.shields.io/badge/Telegram-2CA5E0?logo=telegram&logoColor=white&style=for-the-badge" alt="Telegram">
+  </a>
+  <a href="https://wa.me/your-whatsapp-number">
+    <img src="https://img.shields.io/badge/WhatsApp-25D366?logo=whatsapp&logoColor=white&style=for-the-badge" alt="WhatsApp">
+  </a>
+  <a href="https://www.facebook.com/nowety.piyumalNipuna">
+    <img src="https://img.shields.io/badge/Facebook-1877F2?logo=facebook&logoColor=white&style=for-the-badge" alt="Facebook">
+  </a>
+</p>
 </p>
 
 <p align="center">
