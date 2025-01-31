@@ -144,20 +144,17 @@
    <p align="center">
 
 <p align="center">
+  <a href="https://github.com/PiyumalNipuna60">
+    <img src="https://img.shields.io/badge/Git%20Hub-1877F2?logo=github&logoColor=white&style=for-the-badge" alt="Facebook">
+  </a>
   <a href="nipuna315np@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?logo=gmail&logoColor=white&style=for-the-badge" alt="Gmail">
+    <img src="https://img.shields.io/badge/Gmail-FAB12F?logo=gmail&logoColor=white&style=for-the-badge" alt="Gmail">
   </a>
   <a href="https://lk.linkedin.com/in/Nipuna Piyumal">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white&style=for-the-badge" alt="LinkedIn">
   </a>
-  <a href="https://meet.google.com">
-    <img src="https://img.shields.io/badge/Google%20Meet-00897B?logo=google-meet&logoColor=white&style=for-the-badge" alt="Google Meet">
-  </a>
-  <a href="https://slack.com">
-    <img src="https://img.shields.io/badge/Slack-4A154B?logo=slack&logoColor=white&style=for-the-badge" alt="Slack">
-  </a>
-  <a href="https://t.me/your-telegram-username">
-    <img src="https://img.shields.io/badge/Telegram-2CA5E0?logo=telegram&logoColor=white&style=for-the-badge" alt="Telegram">
+  <a href="https://www.instagram.com/piyumalnipuna/?hl=en">
+    <img src="https://img.shields.io/badge/Instagram-E82561?logo=instagram&logoColor=white&style=for-the-badge" alt="Instagram">
   </a>
   <a href="https://wa.me/your-whatsapp-number">
     <img src="https://img.shields.io/badge/WhatsApp-25D366?logo=whatsapp&logoColor=white&style=for-the-badge" alt="WhatsApp">
