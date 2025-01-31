@@ -1,17 +1,20 @@
-### Hi there 👋
-
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Nipuna%20Piyumal&fontSize=50&&fontColor=ffffff&animation=fadeIn&fontAlignY=35"/>
+</p>
 
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?duration=3000&color=2ED573&width=1000&lines=-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+)](https://git.io/typing-svg)
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?size=32&vCenter=true&width=760&lines=Hi+%F0%9F%91%8B%2C+I'm+Nipuna+Piyumal;IJSE-+%F0%9F%91%8B%2C+Institute+of+Software+Engineering;)](https://git.io/typing-svg)
 
-<h3 align="center"><b><i>Full Stack Developer from Sri Lanka</i></b></h3>
+<h3 ><b><i>Full Stack Developer from Sri Lanka</i></b></h3>
 <p align="center">
   <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=Computer+Science+Student;Competitive+Programmer;IJSE+GDSE+Student;Java%20|%20Algorithms%20|%20OOP%20;Specialist%20on%20Codeforcus;Always%20learning%20new%20things&center=true&width=500&height=50"></a>
 </p>
 <br>
 
-<img align="center" alt="myProfile" src="https://github.com/PiyumalNipuna60/My-Portfoliyo-2/blob/master/assets/piyumal.png" height="500" width="1100">
+<p align="center">
+<img align="center" alt="myProfile" src="https://github.com/PiyumalNipuna60/My-Portfoliyo-2/blob/master/assets/piyumal.png" height="500" width="900">
+</p>
 
 
 
@@ -136,6 +139,13 @@
   
    
    [![Typing SVG](https://readme-typing-svg.herokuapp.com?duration=5000&color=2ED573&width=600&lines=-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+)](https://git.io/typing-svg)
+
+### Contributions
+![Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=piyumalnipuna60&theme=react-dark)
+
+### Trophy Case
+![Trophies](https://github-profile-trophy.vercel.app/?username=piyumalnipuna60&theme=darkhub&row=1)
+
 
 ***...Contact ME...*** 😥 <br>
    
